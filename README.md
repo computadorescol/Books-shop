@@ -7,3 +7,4 @@ It was mainly thought to upload it to my youtube channel and show how to build a
 You can see the youtube video here : [on the code YouTube](https://www.youtube.com/watch?v=uPYfPcMtOvI)
 
 leido y entendido 10 nov 2023 5pm
+agregado : sunday 12 nov 2023 8pm
